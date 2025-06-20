@@ -70,3 +70,11 @@ This project predicts the presence of heart disease in patients using machine le
    ```bash
    git clone https://github.com/yourusername/heart-disease-prediction.git
    cd heart-disease-prediction
+
+##  Conclusion
+
+KNN performed best for this dataset with 85.07% accuracy.
+
+Project showcases complete ML pipeline: data preprocessing → model building → evaluation.
+
+Can be further improved using GridSearchCV, more ensemble models, or deep learning.
